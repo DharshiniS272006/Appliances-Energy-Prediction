@@ -193,4 +193,4 @@ from sklearn.metrics import accuracy_score, classification_report
 print("Accuracy:", accuracy_score(y_test, y_pred_lr))
 print(classificatio
 ```
-# Appliances-Energy-Prediction
+
